@@ -36,3 +36,6 @@ Navigate to `vue_jwt_frontend` and run:
 npm install
 npm run serve
 ```
+
+## 其他需要git submodule 可以看這篇
+- https://blog.puckwang.com/posts/2020/git-submodule-vs-subtree/#%E6%9B%B4%E6%96%B0-Submodule
