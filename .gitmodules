@@ -1,0 +1,6 @@
+[submodule "vue_jwt_frontend"]
+	path = vue_jwt_frontend
+	url = git@github.com:derrick921213/vue_jwt_frontend.git
+[submodule "rust_jwt_backend"]
+	path = rust_jwt_backend
+	url = git@github.com:derrick921213/rust_jwt_backend.git
